@@ -1,0 +1,95 @@
+.B-G{
+    background-color: rgb(146, 3, 3);
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    border-radius: 0 0 100px 50px;
+}
+.R{
+    border-radius: 0px 0px 0px 50px;
+}
+.FT{
+  font-size: xx-large;
+  font-family: "Noto Sans Arabic", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: #000000;
+}
+.B-G-2{
+    background-color: #fff;
+}
+.B-T{
+    background-color: rgb(255, 0, 0);
+    width: 150px;
+    height: 75px;
+    box-sizing: border-box;
+    
+}
+.B-G-4{
+    background-color: rgb(0, 0, 0);
+    border-radius: 0px 0px 100px 100px;
+    height: 600px;
+}
+.color1{
+    color: #fff;
+}
+.color3{
+    color: rgb(146, 3, 3);
+}
+.B-G-3{
+    background-color: #101010;
+}
+.nav{
+    width: 80%;
+    min-width: 600px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+    padding: 0px 100px 0px 100px;
+    box-sizing: border-box;
+    background-color: #101010;
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-transform: none;
+}
+.font3{
+    font-size: xx-large;
+    
+}
+.color5{
+     color: #fff;
+}
+.img{
+    width: 150px;
+    height: 150px;
+}
+.button{
+    border: 1px #ffffff;
+    padding: 15px;
+    color: #fff;
+    background: rgb(146, 3, 3);
+    border: 5px;
+    transition: all 0.5s;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.body:hover{
+    border: 1px #791d1d;
+    padding: 15px;
+    color: rgb(146, 3, 3);
+    background:#ffffff;
+    border: 5px;
+    transition: all 0.5;
+    font-size: 15px;
+}
+.B-G-5{
+    background-color: rgb(0, 0, 0);
+    border-radius: 0px 0px 100px 100px;
+    height: 900px;
+}
